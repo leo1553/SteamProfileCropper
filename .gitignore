@@ -1,0 +1,12 @@
+# Root folder
+*.jpg
+*.png
+*.webm
+*.webp
+*.gif
+ffmpeg.exe
+
+# Ignore output folder
+output/*
+!output/
+!output/.gitkeep
