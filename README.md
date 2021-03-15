@@ -65,4 +65,4 @@ SET "main_size_y=808"
 
 ## Thanks
 
-A special thanks to @github/DanGM96 for providing the references.
+A special thanks to @DanGM96 for providing the references.
