@@ -60,8 +60,9 @@ SET "main_size_y=808"
 ## References 
 
 [How to crop Animated Profile Backgrounds for Artworks](https://steamcommunity.com/sharedfiles/filedetails/?id=2142202319)
+
 [How to Upload Long Images for Showcases [Featured works]](https://steamcommunity.com/sharedfiles/filedetails/?id=748624905)
 
-### Thanks
+## Thanks
 
 A special thanks to @DanGM96 for providing the references.
